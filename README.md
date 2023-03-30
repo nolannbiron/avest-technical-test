@@ -33,7 +33,7 @@ This test is designed to assess your ability to work with React. You should styl
 ## Files
 
 There are 3 files that should help you to complete this test :
-- mocks.ts: This file contains the user data that you will use to authenticate a user.
+- userMock.ts: This file contains the user data that you will use to authenticate a user.
 - App.tsx: This file should contains the routes of the app.
 - globals.scss: This file contains the TailwindCSS configuration.
 
